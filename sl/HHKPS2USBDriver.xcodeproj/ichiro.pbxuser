@@ -1,0 +1,107 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Deployment;
+		activeTarget = 32D94FC30562CBF700B6AF17 /* HHKPS2USBDriver */;
+		breakpointsGroup = 5D60CE380A69F59300AB64B1 /* XCBreakpointsBucket */;
+		codeSenseManager = 5DB9A4DD094593C400CEC428 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					298,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					118,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 213957012;
+			PBXWorkspaceStateSaveDate = 213957012;
+		};
+		perUserProjectItems = {
+			5DA8B4260CC0BA6000179EC2 /* PBXBookmark */ = 5DA8B4260CC0BA6000179EC2 /* PBXBookmark */;
+			5DA8B4290CC0BA7C00179EC2 /* PBXTextBookmark */ = 5DA8B4290CC0BA7C00179EC2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5DB9A4DC094593C400CEC428 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32D94FC30562CBF700B6AF17 /* HHKPS2USBDriver */ = {
+		activeExec = 0;
+	};
+	32D94FCF0562CBF700B6AF17 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 3306}}";
+			sepNavSelRange = "{2641, 0}";
+			sepNavVisRect = "{{0, 1375}, {804, 613}}";
+			sepNavWindowFrame = "{{15, 4}, {843, 742}}";
+		};
+	};
+	5D60CE380A69F59300AB64B1 /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "プロジェクトブレークポイント";
+		objects = (
+		);
+	};
+	5DA8B4260CC0BA6000179EC2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 32D94FCF0562CBF700B6AF17 /* Info.plist */;
+	};
+	5DA8B4290CC0BA7C00179EC2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32D94FCF0562CBF700B6AF17 /* Info.plist */;
+		name = "Info.plist: 141";
+		rLen = 0;
+		rLoc = 4089;
+		rType = 0;
+		vrLen = 950;
+		vrLoc = 3544;
+	};
+	5DB9A4DC094593C400CEC428 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	5DB9A4DD094593C400CEC428 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

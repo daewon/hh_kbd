@@ -1,0 +1,121 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeArchitecturePreference = x86_64;
+		activeBuildConfigurationName = Deployment;
+		activeTarget = 32D94FC30562CBF700B6AF17 /* HHKPS2USBDriver */;
+		codeSenseManager = 9B01E51213432E1C00045469 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 323172331;
+			PBXWorkspaceStateSaveDate = 323172331;
+		};
+		perUserProjectItems = {
+			9B01E91B1343364A00045469 /* PBXTextBookmark */ = 9B01E91B1343364A00045469 /* PBXTextBookmark */;
+			9B01E91C1343364A00045469 /* PBXTextBookmark */ = 9B01E91C1343364A00045469 /* PBXTextBookmark */;
+			9B01E91E1343364A00045469 /* PlistBookmark */ = 9B01E91E1343364A00045469 /* PlistBookmark */;
+			9B82E229134337F600FCD6A0 /* PlistBookmark */ = 9B82E229134337F600FCD6A0 /* PlistBookmark */;
+		};
+		sourceControlManager = 9B01E51113432E1C00045469 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	1A224C3EFF42367911CA2CB7 /* HHKPS2USBDriver.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 559}}";
+			sepNavSelRange = "{0, 1283}";
+			sepNavVisRange = "{0, 377}";
+		};
+	};
+	1A224C3FFF42367911CA2CB7 /* HHKPS2USBDriver.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 1317}}";
+			sepNavSelRange = "{0, 2402}";
+			sepNavVisRange = "{0, 365}";
+		};
+	};
+	32D94FC30562CBF700B6AF17 /* HHKPS2USBDriver */ = {
+		activeExec = 0;
+	};
+	9B01E51113432E1C00045469 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9B01E51213432E1C00045469 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9B01E91B1343364A00045469 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* HHKPS2USBDriver.cpp */;
+		name = "HHKPS2USBDriver.cpp: 1";
+		rLen = 2402;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 365;
+		vrLoc = 0;
+	};
+	9B01E91C1343364A00045469 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* HHKPS2USBDriver.h */;
+		name = "HHKPS2USBDriver.h: 1";
+		rLen = 1283;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 377;
+		vrLoc = 0;
+	};
+	9B01E91E1343364A00045469 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 32D94FCF0562CBF700B6AF17 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			OSBundleLibraries,
+			com.apple.kpi.iokit,
+		);
+		name = /Users/inou/work/Sources/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	9B82E229134337F600FCD6A0 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 32D94FCF0562CBF700B6AF17 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			OSBundleLibraries,
+			com.apple.kpi.iokit,
+		);
+		name = /Users/inou/work/hhkps2usbdriver/Sources/Info.plist;
+		rLen = 0;
+		rLoc = 0;
+	};
+}
